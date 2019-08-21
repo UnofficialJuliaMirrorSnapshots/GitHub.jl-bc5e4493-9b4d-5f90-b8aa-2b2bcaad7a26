@@ -1,9 +1,6 @@
 # GitHub.jl
 
-[![GitHub](http://pkg.julialang.org/badges/GitHub_0.5.svg)](http://pkg.julialang.org/?pkg=GitHub)
-[![GitHub](http://pkg.julialang.org/badges/GitHub_0.6.svg)](http://pkg.julialang.org/?pkg=GitHub)
 [![Build Status](https://travis-ci.org/JuliaWeb/GitHub.jl.svg?branch=master)](https://travis-ci.org/JuliaWeb/GitHub.jl)
-[![Build status](https://ci.appveyor.com/api/projects/status/gmlm8snv03aw5pwq/branch/master?svg=true)](https://ci.appveyor.com/project/jrevels/github-jl-lj49i/branch/master)
 [![Coverage Status](https://coveralls.io/repos/JuliaWeb/GitHub.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/JuliaWeb/GitHub.jl?branch=master)
 
 GitHub.jl provides a Julia interface to the [GitHub API v3](https://developer.github.com/v3/). Using GitHub.jl, you can do things like:
